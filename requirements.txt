@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+openai
+anthropic
+elevenlabs
+moviepy
+requests
+cryptography
+apscheduler
+pandas
+matplotlib
+tweepy
+facebook-sdk
+google-api-python-client
